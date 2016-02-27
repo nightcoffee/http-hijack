@@ -4,7 +4,7 @@ Http hijack(redirect to other website) implemented by Golang + gopacket + libpca
 
 # Requirement
 * libpcap
-* Switch with port mirroring or Hub
+* Switch with port mirroring (You can use Openwrt)
 
 # Use
 1. Config switch mirror all traffic to HIJACK computer.
